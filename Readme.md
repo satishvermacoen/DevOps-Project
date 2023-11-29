@@ -1,5 +1,5 @@
 # 1. DevSecOps-Project
-This project is learn and clone from [@Nasiullha Chaudhari](https://github.com/N4si).
+This project is learn and clone from [@Nasiullha Chaudhari](https://github.com/N4si).All credit goes to [@Nasiullha Chaudhari](https://github.com/N4si)
 ## Overview
 
 <div align="center">
